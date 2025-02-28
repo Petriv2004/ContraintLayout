@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">RegistroMascota</string>
+    <string name="nombre_mascota">Nombre:</string>
+    <string name="nombre_hint">Nombre de la mascota</string>
+    <string name="fecha_nacimiento">Fecha Nacimiento:</string>
+    <string name="nacimiento_hint">Fecha de Nacimiento</string>
+    <string name="especie">Especie de la mascota:</string>
+    <string-array name="especie_mascota">
+        <item>Gato</item>
+        <item>Perro</item>
+    </string-array>
+    <string name="raza">Raza:</string>
+    <string name="raza_hint">Raza de su mascota</string>
+    <string name="edad">Edad:</string>
+    <string name="edad_hint">Edad de su mascota</string>
+    <string name="genero">Género:</string>
+    <string-array name="genero_mascota">
+        <item>Macho</item>
+        <item>Hembra</item>
+    </string-array>
+    <string name="send">Registrar</string>
+    <string name="cualidades">Describa lo que le gusta a su mascota</string>
+</resources>
